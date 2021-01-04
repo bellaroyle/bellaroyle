@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Bella's github stats](https://github-readme-stats.vercel.app/api?username=bellaroyle&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Bella's github stats](https://github-readme-stats.vercel.app/api?username=bellaroyle&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
