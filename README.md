@@ -2,7 +2,7 @@
 
 [![Bella's github stats](https://github-readme-stats.vercel.app/api?username=bellaroyle&hide=stars&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellaroyle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellaroyle&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
