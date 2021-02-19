@@ -5,7 +5,6 @@ Welcome to my github, where I store all my code. I hereby invite you to have a b
 
 I'm a full stack developer. I recently graduated from Northcoders' bootcamp and I am currently spending some time reviewing and improving on what I have learnt.
 
-I am also actively job searching, so if what you see here impresses you, please get in touch! My email is belladevelops@gmail.com
 
 [![Bella's github stats](https://github-readme-stats.vercel.app/api?username=bellaroyle&hide=stars&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
